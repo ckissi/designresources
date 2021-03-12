@@ -6,18 +6,23 @@
                 © Copyright {{ date('Y') }}. All Rights Reserved.
             </div>
             <!-- Required Unicons (if you want) -->
-            <div class="flex space-x-3">
-                <div class="text-base">Follow us: </div>
+            <div class="flex items-center space-x-3 text-sm">
+                <div class="hidden md:block">Follow us: </div>
                 <a href="https://twitter.com/traversymedia" class="flex items-center mx-1 space-x-2">
-                    <i class="block uil uil-twitter-alt"></i> 
-                    <div class="text-base">Brad</div>
+                    <img src="/assets/images/twitter.svg" alt="twitter">
+                    <div>Brad</div>
                 </a>
                 <a href="https://twitter.com/csaba_kissi" class="flex items-center mx-1 space-x-2">
-                    <i class="uil uil-twitter-alt"></i>
-                    <div class="text-base">Csaba</div>
+                    <img src="/assets/images/twitter.svg" alt="twitter">
+                    <div>Csaba</div>
                 </a>
-                <a href="https://www.youtube.com/user/TechGuyWeb" class="w-6 mx-1">
-                    <i class="uil uil-youtube"></i>
+                <a href="https://www.youtube.com/user/TechGuyWeb" class="flex items-center mx-1 space-x-2 text-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <rect x="3" y="5" width="18" height="14" rx="4" />
+                        <path d="M10 9l5 3l-5 3z" />
+                    </svg>
+                    <span>Traversy Media</span>
                 </a>                
             </div>
         </div>    

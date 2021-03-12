@@ -10,6 +10,7 @@ mix.jigsaw({
     watch: [
         'config.php',
         'source/**/*.md',
+        'source/**/*.svg',
         'source/**/*.php',
         'source/**/*.scss',
         '!source/**/cache/*',

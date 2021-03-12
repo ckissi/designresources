@@ -3,7 +3,6 @@
     <p class="flex-1 text-sm text-gray-500">{{ $post->description }}</p>
     <div>
         <a href="{{ $post->getUrl() }}"
-            class="inline-block p-2 px-6 text-xs font-bold text-white duration-200 transform bg-blue-500 rounded-md hover:scale-105">Show
-            List</a>
+            class="inline-block p-2 px-6 text-xs font-bold text-white duration-200 transform bg-blue-500 rounded-md hover:scale-105">Show List</a>
     </div>
 </div>
