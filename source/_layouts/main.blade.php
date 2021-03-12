@@ -26,6 +26,7 @@
             </div>
         </div>    
         @include('_partials.footer')
+        @include('_partials.scripts')
         </div>
     </body>
 </html>

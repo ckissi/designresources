@@ -20,6 +20,5 @@
                     <i class="uil uil-youtube"></i>
                 </a>                
             </div>
-        </div>
-    
+        </div>    
 </footer>
