@@ -14,6 +14,10 @@ Follow the link to get information about [installing](https://jigsaw.tighten.co/
 
 Follow the link to get information about [build](https://jigsaw.tighten.co/docs/building-and-previewing/#vue-app)
 
+### Data Source Information
+
+Please check config.php for more information how the data is pulled.
+
 
 
  
