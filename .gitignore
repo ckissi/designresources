@@ -1,0 +1,13 @@
+/build_local/
+/cache/
+/node_modules/
+/vendor/
+/.idea/
+/.vscode/
+npm-debug.log
+
+/build_production/
+/build_local/
+
+# Local Netlify folder
+.netlify
