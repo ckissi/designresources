@@ -10,7 +10,7 @@
                 <div class="hidden md:block">Follow us: </div>
                 <a href="https://twitter.com/traversymedia" class="flex items-center mx-1 space-x-2">
                     <img src="/assets/images/twitter.svg" alt="twitter">
-                    <div>Brad</div>
+                    <div>traversymedia</div>
                 </a>
                 <a href="https://twitter.com/csaba_kissi" class="flex items-center mx-1 space-x-2">
                     <img src="/assets/images/twitter.svg" alt="twitter">
