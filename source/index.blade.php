@@ -3,14 +3,14 @@
 @section('body')
 <div class="md:p-8">
     <div class="flex justify-center">
-        <h1 class="block max-w-4xl my-10 text-xl font-bold text-center md:leading-10 md:text-4xl">Curated list of design and UI
+        <h1 class="block max-w-4xl my-10 text-xl font-bold text-center md:leading-10 md:text-4xl">Great list of design and UI
             resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more</h1>
     </div>
     <div class="flex justify-center my-10 space-x-5 text-sm md:space-x-10 md:text-base">
          <a class="flex items-center space-x-3 md:space-x-4" href="https://twitter.com/traversymedia">
              <img src="/assets/images/bradtraversy.jpg" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300"/ alt="@traversymedia">
              <div>
-                <div class="font-bold">Brad Traversy</div>
+                <div class="font-bold">Brad Traversy Media</div>
                 <div class="text-xs font-medium md:text-sm">idea + curation</div>   
             </div>
          </a>
