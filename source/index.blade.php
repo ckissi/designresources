@@ -7,17 +7,17 @@
             resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more</h1>
     </div>
     <div class="flex justify-center my-10 space-x-5 text-sm md:space-x-10 md:text-base">
-         <a class="flex items-center space-x-3 md:space-x-4" href="https://twitter.com/traversymedia">
-             <img src="/assets/images/bradtraversy.jpg" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300"/ alt="@traversymedia">
+         <a class="flex items-center space-x-3 md:space-x-4" href="https://github.com/uvacoder">
+             <img src="/assets/images/portrait.png" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300"/ alt="@uvacoder">
              <div>
-                <div class="font-bold">Brad Traversy Media</div>
+                <div class="font-bold">Maddie Campbell</div>
                 <div class="text-xs font-medium md:text-sm">idea + curation</div>   
             </div>
          </a>
-         <a class="flex items-center space-x-3 md:space-x-4" href="https://twitter.com/csaba_kissi">
-            <img src="/assets/images/csabakissi.jpg" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300" alt="@csaba_kissi"/>
+         <a class="flex items-center space-x-3 md:space-x-4" href="https://github.com/22940dev">
+            <img src="/assets/images/rob-owen.png" class="w-12 rounded-full md:w-14 ring-4 ring-gray-300" alt="@22940dev"/>
             <div>
-               <div class="font-bold">Csaba Kissi</div>
+               <div class="font-bold">Bill Lumberg</div>
                <div class="text-xs font-medium md:text-sm">idea + site</div>   
            </div>
         </a>
