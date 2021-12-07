@@ -13,7 +13,7 @@
                     <div>AlecCam43544378</div>
                 </a>
                 <a href="https://github.com/uvacoder" class="flex items-center mx-1 space-x-2">
-                    <img src="/assets/images/twitter.svg" alt="twitter">
+                    <img src="/assets/images/github.svg" alt="github">
                     <div>uvacoder</div>
                 </a>
                 <a href="https://www.youtube.com/user/TechGuyWeb" class="flex items-center mx-1 space-x-2 text-sm">
@@ -22,7 +22,7 @@
                         <rect x="3" y="5" width="18" height="14" rx="4" />
                         <path d="M10 9l5 3l-5 3z" />
                     </svg>
-                    <span>Traversy Media</span>
+                    <span>uvacoder</span>
                 </a>                
             </div>
         </div>    
