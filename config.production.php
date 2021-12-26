@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://designresources.dev',
+    'baseUrl' => 'https://designresources-abc.netlify.app',
     'production' => true,
 ];

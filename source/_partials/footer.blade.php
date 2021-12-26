@@ -8,13 +8,13 @@
             <!-- Required Unicons (if you want) -->
             <div class="flex items-center space-x-3 text-sm">
                 <div class="hidden md:block">Follow us: </div>
-                <a href="https://twitter.com/traversymedia" class="flex items-center mx-1 space-x-2">
+                <a href="https://twitter.com/AlecCam43544378" class="flex items-center mx-1 space-x-2">
                     <img src="/assets/images/twitter.svg" alt="twitter">
-                    <div>Brad</div>
+                    <div>AlecCam43544378</div>
                 </a>
-                <a href="https://twitter.com/csaba_kissi" class="flex items-center mx-1 space-x-2">
-                    <img src="/assets/images/twitter.svg" alt="twitter">
-                    <div>Csaba</div>
+                <a href="https://github.com/uvacoder" class="flex items-center mx-1 space-x-2">
+                    <img src="/assets/images/github.svg" alt="github">
+                    <div>uvacoder</div>
                 </a>
                 <a href="https://www.youtube.com/user/TechGuyWeb" class="flex items-center mx-1 space-x-2 text-sm">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-6" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -22,7 +22,7 @@
                         <rect x="3" y="5" width="18" height="14" rx="4" />
                         <path d="M10 9l5 3l-5 3z" />
                     </svg>
-                    <span>Traversy Media</span>
+                    <span>uvacoder</span>
                 </a>                
             </div>
         </div>    

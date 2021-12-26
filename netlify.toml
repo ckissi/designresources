@@ -1,3 +1,5 @@
-[build]  
-  base = "."
-  publish = "build_production/"
+
+[build]
+  command = "npm run prod"
+  publish = "build_production"
+  environment = { PHP_VERSION = "7.4" }
